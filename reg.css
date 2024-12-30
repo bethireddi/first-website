@@ -1,0 +1,59 @@
+body{
+    background-color:bisque;
+    color:purple;
+}
+header{
+display: flex;
+background-color: black;
+height:100px;
+margin:30px;
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 20px;}
+nav ul li a{
+padding: 20px;
+color:violet;
+font-size: large;
+text-decoration: none;
+border: 2px solid salmon;
+border-radius: 20%;
+background-color: bisque;
+}
+nav{
+margin-left: 500px;
+}
+.bo ,.bo td{
+    text-align: center;
+    border:2px solid black;
+    width:400px;
+   padding:2px;
+   background-color: chocolate;
+}
+.ed,.ed td{
+    text-align: center;
+    border:2px solid black;
+    width:600px;
+   padding:2px;
+    background-color:skyblue;
+}
+.fa,.fa td{
+    text-align: center;
+    border:2px solid black;
+    width:600px;
+   padding:2px;
+    background-color:burlywood;
+}
+.fo,.fo td{
+    text-align: center;
+    border:2px solid black;
+    width:600px;
+   padding:2px;
+    background-color:darkkhaki;
+}
+div{
+    border: 2px solid black;
+    width:400px;
+    background-color: cyan;
+}

@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: url('a.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+  color: yellow;
+  
+}
+.bo ,.bo td{
+  color: #000;
+    text-align: center;
+    border:2px solid black;
+    width:400px;
+   padding:2px;
+   background-color: chocolate;
+}
+div{
+  display: grid;
+  display: flex;
+  flex-wrap: wrap;
+    margin: 7px;
+    border:1px solid black;
+    float:left;
+    width:350px;
+   
+}
+div:hover{
+    border: 5px solid blueviolet;
+}
